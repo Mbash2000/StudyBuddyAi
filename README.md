@@ -31,7 +31,7 @@ cd AI-Study-Buddy
 
 Install Dependencies:
 
-pip install flask supabase requests markupsafe python-dotenv
+python3 -m pip install flask supabase requests markupsafe python-dotenv
 
 Create .env File: In the project root, create a .env file with:
 SUPABASE_URL=https://your-supabase-url.supabase.co
